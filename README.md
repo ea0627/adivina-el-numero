@@ -44,7 +44,7 @@ adivina-el-numero/
 
 ## 📸 Captura de pantalla
 
-![Vista previa](./assets/screenshot.png) <!-- Puedes cambiar esta ruta si agregas la imagen -->
+![Vista previa](./assets/adivina-el-numero.png) <!-- Puedes cambiar esta ruta si agregas la imagen -->
 
 ---
 
